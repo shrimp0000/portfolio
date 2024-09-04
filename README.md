@@ -24,9 +24,7 @@ Concluded customer behavior and designed follow-up marketing strategies for Amaz
 
 **Example Finding**: cluster 1 has keywords ***daughter, wife, bought***, indicating that these people purchased cell phones as gifts for their family members. Amazon can target this group with advertisements for gifting items on occasions like Valentine's Day, Children's Day, and other holidays, as they are likely to purchase gifts for their loved ones.
 
-&nbsp;  
 ![Amazon Cell Phone Review Clustering](/img/cluster.png)
-&nbsp;
 
 ### San Francisco Crime Analysis on Databricks
 [Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5419472383784893/3528573267811368/7595568558102369/latest.html)
