@@ -35,6 +35,6 @@ Improved stakeholders' comprehension of complex crime data and facilitated data-
 ![San Francisco Crime Analysis](/img/SF_example.png)
 
 ### Bank Customer Churn Prediction on Kaggle
-[Kaggle Link](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
+[Kaggle Notebook](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
 
 Applied various machine learning models including Logistic Regression, KNN, Random Forest, SVM, and XGBoost, and compared the models using confusion matrices and ROC/PR curves.
