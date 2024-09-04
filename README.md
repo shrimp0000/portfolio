@@ -31,9 +31,10 @@ Concluded customer behavior and designed follow-up marketing strategies for Amaz
 
 Improved stakeholders' comprehension of complex crime data and facilitated data-driven decision-making processes using **Spark SQL** on **Databricks**. The data is real SF police report data from 2003 to 2018.
 
+**Example Visualization**:
 ![San Francisco Crime Analysis](/img/SF_example.png)
 
 ### Bank Customer Churn Prediction on Kaggle
-[Kaggle Notebook](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
+[Kaggle Link](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
 
 Applied various machine learning models including Logistic Regression, KNN, Random Forest, SVM, and XGBoost, and compared the models using confusion matrices and ROC/PR curves.
