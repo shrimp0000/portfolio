@@ -37,5 +37,3 @@ Improved stakeholders' comprehension of complex crime data and facilitated data-
 [Kaggle Notebook](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
 
 Applied various machine learning models including Logistic Regression, KNN, Random Forest, SVM, and XGBoost, and compared the models using confusion matrices and ROC/PR curves.
-
-![Bank Customer Churn Prediction](/img/kaggle.png)
