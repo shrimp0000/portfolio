@@ -22,6 +22,8 @@
 
 Concluded customer behavior and designed follow-up marketing strategies for Amazon with clustering technique using **Python**. The proposed method provides an automated approach to process the data (with tokenization, stemming, and TF-IDF feature extraction with NLTK) and conduct clustering (with K-means and LDA models). The output is the clusters and their associated review keywords. The data is real Amazon review data with over 1.1 million rows.
 
+**Example Finding**
+
 ![Amazon Cell Phone Review Clustering](/img/cluster.png)
 
 ### San Francisco Crime Analysis on Databricks
