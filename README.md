@@ -22,7 +22,7 @@
 
 Concluded customer behavior and designed follow-up marketing strategies for Amazon with clustering technique using **Python**. The proposed method provides an automated approach to process the data (with tokenization, stemming, and TF-IDF feature extraction with NLTK) and conduct clustering (with K-means and LDA models). The output is the clusters and their associated review keywords. The data is real Amazon review data with over 1.1 million rows.
 
-**Example Finding**
+**Example Finding**: cluster 1 has keywords ***daughter, wife, bought***, indicating that these people purchased cell phones as gifts for their family members. Amazon can target this group with advertisements for gifting items on occasions like Valentine's Day, Children's Day, and other holidays, as they are likely to purchase gifts for their loved ones.
 
 ![Amazon Cell Phone Review Clustering](/img/cluster.png)
 
