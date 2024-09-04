@@ -14,18 +14,20 @@
 
 ## Projects
 ### Amazon Cell Phone Review Clustering and Analysis
+[Project Link](https://github.com/shrimp0000/Data-Science-Project/blob/main/cell_phone_review_clustering.ipynb)
 
 Concluded customer behavior and designed follow-up marketing strategies for Amazon with clustering technique using **Python**. The proposed method provides an automated approach to process the data (with tokenization, stemming, and TF-IDF feature extraction with NLTK) and conduct clustering (with K-means and LDA models). The output is the clusters and their associated review keywords. The data is real Amazon review data with over 1.1 million rows, retrieved from https://nijianmo.github.io/amazon/index.html.
-- [Project Link](https://github.com/shrimp0000/Data-Science-Project/blob/main/cell_phone_review_clustering.ipynb)
+
 
 
 ### San Francisco Crime Analysis on Databricks
+[Databricks Publication](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5419472383784893/3528573267811368/7595568558102369/latest.html)
 
 Improved stakeholders' comprehension of complex crime data and facilitated data-driven decision-making processes using **Spark SQL** on **Databricks**. The data is real SF police report data from 2003 to 2018, retrieved from https://data.sfgov.org/api/views/tmnf-yvry.
-- [Databricks Publication](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5419472383784893/3528573267811368/7595568558102369/latest.html)
 
 
 ### Bank Customer Churn Prediction on Kaggle
+[Kaggle Publication](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
 
 Applied various machine learning models including Logistic Regression, KNN, Random Forest, SVM, and XGBoost, and compared the models using confusion matrices and ROC/PR curves.
-- [Kaggle Publication](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
+
