@@ -26,6 +26,8 @@ Concluded customer behavior and designed follow-up marketing strategies for Amaz
 
 ![Amazon Cell Phone Review Clustering](/img/cluster.png)
 
+
+
 ### San Francisco Crime Analysis on Databricks
 [Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5419472383784893/3528573267811368/7595568558102369/latest.html)
 
@@ -33,6 +35,8 @@ Improved stakeholders' comprehension of complex crime data and facilitated data-
 
 **Example Visualization**:
 ![San Francisco Crime Analysis](/img/SF_example.png)
+
+
 
 ### Bank Customer Churn Prediction on Kaggle
 [Kaggle Notebook](https://www.kaggle.com/code/linastianbao/bank-churn-prediction/notebook)
