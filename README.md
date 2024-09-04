@@ -12,7 +12,8 @@
 - Trained Bayesian Regression model and constructed Causal Bayesian Networks to uncover the implications of feature correlation
 - Successfully detected the root cause of Insider's most recent 2 anomalous traffic data (on 01/24/2023 and 09/18/2023)
 
-- ***Result in a Poster***
+***Result in a Poster***
+
 ![Insider](/img/insider.png)
 
 ## Projects
