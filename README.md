@@ -12,10 +12,6 @@
 - Trained Bayesian Regression model and constructed Causal Bayesian Networks to uncover the implications of feature correlation
 - Successfully detected the root cause of Insider's most recent 2 anomalous traffic data (on 01/24/2023 and 09/18/2023)
 
-**Summary in a Poster**
-
-![Insider](/img/insider.png)
-
 ## Projects
 ### Amazon Cell Phone Review Clustering and Analysis
 [Project Link](https://github.com/shrimp0000/Data-Science-Project/blob/main/cell_phone_review_clustering.ipynb)
