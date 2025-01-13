@@ -4,6 +4,13 @@
 ### NYU Visa Chatbot
 [Project Link](https://github.com/shrimp0000/nyu-chatbot)
 
+Developed a chatbot using LLM and RAG to assist NYU students in understanding visa policies. Analyzed code performance using line profiler to identify optimization opportunities. Optimized computational efficiency with multi-threading and multi-processing. Used Jit and Numba to enhance 
+execution speed. Reduced the wall time from 3.10s to 0.63s and the CPU time from 1.04s to 0.04s
+
+Demo Picture:
+
+![Chatbot Demo](/img/demo_2.png)
+
 ### Amazon Cell Phone Review Clustering and Analysis
 [Project Link](https://github.com/shrimp0000/Data-Science-Project/blob/main/cell_phone_review_clustering.ipynb)
 
