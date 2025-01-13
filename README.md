@@ -5,7 +5,7 @@
 [Project Link](https://github.com/shrimp0000/nyu-chatbot)
 
 Developed a chatbot using LLM and RAG to assist NYU students in understanding visa policies. Analyzed code performance using line profiler to identify optimization opportunities. Optimized computational efficiency with multi-threading and multi-processing. Used Jit and Numba to enhance 
-execution speed. Reduced the wall time from 3.10s to 0.63s and the CPU time from 1.04s to 0.04s
+execution speed. Reduced the wall time from 3.10s to 0.63s and the CPU time from 1.04s to 0.04s.
 
 Demo Picture:
 
