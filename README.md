@@ -2,7 +2,7 @@
 
 ## Projects
 ### NYU Visa Chatbot
-[Project Link]([https://github.com/shrimp0000/Data-Science-Project/blob/main/cell_phone_review_clustering.ipynb](https://github.com/shrimp0000/nyu-chatbot))
+[Project Link](https://github.com/shrimp0000/nyu-chatbot)
 
 ### Amazon Cell Phone Review Clustering and Analysis
 [Project Link](https://github.com/shrimp0000/Data-Science-Project/blob/main/cell_phone_review_clustering.ipynb)
